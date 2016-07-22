@@ -1,0 +1,19 @@
+{
+  "name": "comefrom",
+  "version": "1.0.0",
+  "description": "开发一个 npm 开发包  ，发布",
+  "main": "comefrom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clone123/comefrom.git"
+  },
+  "author": "clone123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clone123/comefrom/issues"
+  },
+  "homepage": "https://github.com/clone123/comefrom#readme"
+}
