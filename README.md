@@ -6,6 +6,8 @@
 
 ##使用方法
 npm install -g comefrom
+
 let cf = require('comefrom')
+
 cf.init()
 
