@@ -9,5 +9,5 @@ npm install -g comefrom
 
 let cf = require('comefrom')
 
-f.init()
+cf.init()
 
